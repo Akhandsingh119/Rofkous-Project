@@ -1,4 +1,4 @@
-# Yoga Master Website 🧘‍♀️
+# Rofkous Clone 🧘‍♀️
 
 A modern, responsive yoga website built with React and Tailwind CSS, featuring smooth animations and a beautiful user interface.
 
